@@ -1,4 +1,5 @@
-Backend Engineer Coding Challenge For TwoSense.ai
+# Backend Engineer Coding Challenge
+
 
 ### Local Setup
 ```
@@ -14,7 +15,7 @@ FLASK_APP=server.py flask run
 
 ### Docker Setup
 ```
-docker build . -t twosense
+docker build . -t .
 ```
 
 ### Docker Run
